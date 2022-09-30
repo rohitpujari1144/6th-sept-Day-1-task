@@ -1,0 +1,32 @@
+Difference between Statically typed and dynamically typed language :
+	
+	Statically typed language :
+	
+		1. Statically typed languages perform type checking at compile-time
+		2. Statically typed languages require to declare the data types of variables
+		3. In this every details about the variables and all the data types must be known before we do compiling process.
+		4. Ex. C, C++, C#
+		
+	Dynamically typed language :
+		1. Dynamically typed languages perform type checking at run-time
+		2. In dynamically  typed language no need to declare the data types of variables
+		3. In this type of language, there is no need to specify the data type of each variable while writing code.
+		4. Ex. Python, Javascript, Ruby
+
+Difference between Scripting and Programming Languages :
+
+	Scripting languages :
+
+		1. A scripting language is a language that uses a navive method to bring codes to a runtime environment
+		2. They are used to creat dynamic web applications
+		3. All the scripting languages are intrepeted language
+		4. They are used to creat dynamic web applications
+		5. Ex. Javascript, Python
+
+	Programming languages :
+
+		1. A programming language is a language which is used by humans to navigate their communication with computers
+		2. Programming languages are used to write computer programs
+		3. Most of the programming languages are compiled languages
+		4. Programming languages are used write computer programs
+		5. Ex. C, C++
