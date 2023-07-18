@@ -1,1 +1,1 @@
-# 6th-sept-Day-1-task
+# Difference between statically typed and dynamically typed language
